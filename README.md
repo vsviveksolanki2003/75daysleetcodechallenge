@@ -33,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2785-sort-vowels-in-a-string) |
+| [3813-vowel-consonant-score](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [2785-sort-vowels-in-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2785-sort-vowels-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
