@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
