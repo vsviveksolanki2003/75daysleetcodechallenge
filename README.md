@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2810-faulty-keyboard) |
 | [3813-vowel-consonant-score](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3813-vowel-consonant-score) |
 ## Sorting
 |  |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2810-faulty-keyboard](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2810-faulty-keyboard) |
 | [3813-vowel-consonant-score](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
