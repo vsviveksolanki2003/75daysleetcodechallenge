@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2810-faulty-keyboard](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2810-faulty-keyboard) |
 | [3813-vowel-consonant-score](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3813-vowel-consonant-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
