@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0078-subsets) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
