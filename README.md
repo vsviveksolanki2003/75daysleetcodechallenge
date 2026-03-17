@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0078-subsets) |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Backtracking
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
@@ -65,4 +68,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
