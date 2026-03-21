@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/2769-find-the-maximum-achievable-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
