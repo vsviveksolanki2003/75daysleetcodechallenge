@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
