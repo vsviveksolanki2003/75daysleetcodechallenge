@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
