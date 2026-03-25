@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0011-container-with-most-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vsviveksolanki2003/75daysleetcodechallenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
